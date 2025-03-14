@@ -1,6 +1,6 @@
 # Many-to-many Object Relationships Lab
 
-## Learning Goals
+## Learning Goals,
 
 - Create a Many-to-many relationship using an intermediary class.
 - Write aggregate methods.
